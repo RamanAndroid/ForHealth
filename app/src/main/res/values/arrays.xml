@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercises">
+        <item>Отжимание</item>
+        <item>Подтягивание</item>
+        <item>Приседание</item>
+        <item>Планка</item>
+    </string-array>
+    <string-array name="food">
+        <item>Овсянка</item>
+        <item>Банан</item>
+        <item>Курица</item>
+        <item>Индюк</item>
+    </string-array>
+    <string-array name="equipment">
+        <item>Гантели</item>
+        <item>Резинка</item>
+        <item>Обруч</item>
+        <item>Скакалка</item>
+    </string-array>
+</resources>
